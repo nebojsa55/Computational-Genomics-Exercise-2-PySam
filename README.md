@@ -9,7 +9,7 @@ The Jupyter notebook was created for the purpose of Exercise 2 in the course [Ge
 
 
 ### Requirements
-To install necessary libraries just type in shell:
+To install necessary libraries, type in shell:
 ``` shell
 pip install -r requirements.txt 
 ```
