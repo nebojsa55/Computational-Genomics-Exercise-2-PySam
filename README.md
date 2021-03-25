@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/nebojsa55/GenomskaInformatika-Exercise-2-PySam?color=red&style=for-the-badge) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pysam-developers/pysam?label=pysam&style=for-the-badge)
+
 # Using PySam for reading and analyzing SAM/BAM files
 
 The Jupyter notebook was created for the purpose of Exercise 2 in the course [Genome Informatics](https://github.com/vladimirkovacevic/gi-2021-etf). The goal is to read and extract specific information from the BAM file **'merged-tumor.bam'**. The data is available as a part of [Seven Bridges Genomics](https://cgc.sbgenomics.com) public cloud data.
