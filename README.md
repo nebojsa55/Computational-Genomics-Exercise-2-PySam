@@ -6,3 +6,10 @@ The Jupyter notebook was created for the purpose of Exercise 2 in the course [Ge
 |  Total number of reads 	|  Unmapped reads in the file 	|   Reads with with mapping quality 0	|  Average mapping quality  |  
 |:-----------------------:|:-----------------------------:|:-----------------------------------:|:-------------------------:|
 | 2,921,629               | 17,765                        | 126,628                             | 55.91                     |
+
+
+### Requirements
+To install necessary libraries just type in shell:
+``` shell
+pip install -r requirements.txt 
+```
