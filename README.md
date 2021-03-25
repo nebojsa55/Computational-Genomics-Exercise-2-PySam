@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/nebojsa55/GenomskaInformatika-Exercise-2-PySam?color=red&style=for-the-badge) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pysam-developers/pysam?label=pysam&style=for-the-badge)
+[![GitHub](https://img.shields.io/github/license/nebojsa55/GenomskaInformatika-Exercise-2-PySam?color=red&style=for-the-badge)](https://github.com/nebojsa55/GenomskaInformatika-Exercise-2-PySam/blob/master/LICENSE) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pysam-developers/pysam?label=pysam&style=for-the-badge)](https://github.com/pysam-developers/pysam)
 
 # Using PySam for reading and analyzing SAM/BAM files
 
